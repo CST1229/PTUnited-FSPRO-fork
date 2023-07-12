@@ -1,6 +1,0 @@
-sound-united-testing/Desktop/Master.strings.bank
-sound-united-testing/Desktop/Master.bank
-sound-united-testing/Desktop/united-music.bank
-sound-united-testing/Desktop/united-sfx.bank
-sound/Desktop/music.bank
-sound/Desktop/sfx.bank

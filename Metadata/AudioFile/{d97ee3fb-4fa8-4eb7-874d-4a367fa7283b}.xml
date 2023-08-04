@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{d97ee3fb-4fa8-4eb7-874d-4a367fa7283b}">
 		<property name="assetPath">
-			<value>ptuce/Wario_Land_4_music-_Hurry_Up.wav</value>
+			<value>ptuce/pizzatime/Wario_Land_4_music-_Hurry_Up.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

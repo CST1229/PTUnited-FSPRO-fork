@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{fac9a442-1e2a-4578-8e9c-5c180f1ad777}">
 		<property name="assetPath">
-			<value>ptuce/ANTONBLAST_OST__Outta_My_Way_...Its_Happy_Hour.wav</value>
+			<value>ptuce/pizzatime/ANTONBLAST_OST__Outta_My_Way_...Its_Happy_Hour.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

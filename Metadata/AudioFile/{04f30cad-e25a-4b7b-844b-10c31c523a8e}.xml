@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{04f30cad-e25a-4b7b-844b-10c31c523a8e}">
 		<property name="assetPath">
-			<value>ptuce/068_-_Dialgas_Fight_to_the_Finish_-_Pokemon_Mystery_Dungeon_-_Explorers_of_Sky.wav</value>
+			<value>ptuce/pizzatime/068_-_Dialgas_Fight_to_the_Finish_-_Pokemon_Mystery_Dungeon_-_Explorers_of_Sky.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

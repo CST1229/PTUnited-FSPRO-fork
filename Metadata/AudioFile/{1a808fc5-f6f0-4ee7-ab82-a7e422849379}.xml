@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{7c2c7bc7-7241-49b7-94c3-17ac649af567}">
+	<object class="AudioFile" id="{1a808fc5-f6f0-4ee7-ab82-a7e422849379}">
 		<property name="assetPath">
-			<value>ptuce/pizzyfireass.ogg</value>
+			<value>sn_chipCollectBig.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.1657142857142857</value>
+			<value>1.2753514739229026</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>

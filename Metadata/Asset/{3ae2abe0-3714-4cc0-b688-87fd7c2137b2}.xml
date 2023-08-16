@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="EncodableAsset" id="{3e5b14c7-629c-45bd-a1cd-83847611ddde}">
+	<object class="EncodableAsset" id="{3ae2abe0-3714-4cc0-b688-87fd7c2137b2}">
 		<property name="assetPath">
-			<value>ptuce/pizzelle/</value>
+			<value>ptuce/anton/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>

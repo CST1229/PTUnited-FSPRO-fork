@@ -176,7 +176,7 @@
 			<value>175</value>
 		</property>
 		<property name="length">
-			<value>141</value>
+			<value>139.24861678004538</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{88656a12-0607-43e1-ad9d-86db4dbc601c}</destination>
@@ -190,7 +190,7 @@
 			<value>175</value>
 		</property>
 		<property name="length">
-			<value>141</value>
+			<value>139.24861678004538</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{88656a12-0607-43e1-ad9d-86db4dbc601c}</destination>

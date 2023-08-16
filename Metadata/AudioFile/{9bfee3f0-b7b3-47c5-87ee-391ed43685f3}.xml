@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{7c2c7bc7-7241-49b7-94c3-17ac649af567}">
+	<object class="AudioFile" id="{9bfee3f0-b7b3-47c5-87ee-391ed43685f3}">
 		<property name="assetPath">
-			<value>ptuce/pizzyfireass.ogg</value>
+			<value>ptuce/mu_pizzanoescape.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.1657142857142857</value>
+			<value>154.61530612244897</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>

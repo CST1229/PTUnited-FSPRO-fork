@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{769b4b67-ee08-49d7-9123-30e057e6a5cb}">
+	<object class="AudioFile" id="{4bd0d415-5994-4314-a65e-e952e1c41b87}">
 		<property name="assetPath">
-			<value>ptuce/anton/sfx_treasureCounter2.wav</value>
+			<value>ptuce/Wario/Excellent03.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.14612244897959184</value>
+			<value>1.7095691609977324</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>

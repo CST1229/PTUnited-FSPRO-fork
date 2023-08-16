@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{f9b0231d-fd23-4353-9655-d636751173f1}">
 		<property name="assetPath">
-			<value>sn_chipCollect.ogg</value>
+			<value>ptuce/anton/sfx_chipCollect.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

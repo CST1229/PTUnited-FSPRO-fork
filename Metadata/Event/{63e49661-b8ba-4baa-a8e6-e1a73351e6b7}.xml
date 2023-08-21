@@ -160,16 +160,5 @@
 		<property name="pitch">
 			<value>1</value>
 		</property>
-		<relationship name="modulators">
-			<destination>{85af8fa8-7f4f-4ccb-9ba4-f4ab260bdb78}</destination>
-		</relationship>
-	</object>
-	<object class="RandomizerModulator" id="{85af8fa8-7f4f-4ccb-9ba4-f4ab260bdb78}">
-		<property name="nameOfPropertyBeingModulated">
-			<value>pitch</value>
-		</property>
-		<property name="amount">
-			<value>4.5</value>
-		</property>
 	</object>
 </objects>

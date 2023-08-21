@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{ab55b5ed-452f-4192-b563-0303c2dc538a}">
+	<object class="AudioFile" id="{0c08e2cb-43be-41e2-8417-9089652a06fb}">
 		<property name="assetPath">
-			<value>music/Pizza_Tower_OST_-_Bye_Bye_There.ogg</value>
-		</property>
-		<property name="isStreaming">
-			<value>true</value>
+			<value>ptuce/sfx/sfx_breakdancemusic_3bpm.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -14,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>338.46856250000002</value>
+			<value>0.79997916666666669</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>

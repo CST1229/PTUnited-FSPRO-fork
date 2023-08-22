@@ -2,10 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{dc1c5e49-0321-4c7c-a9c9-4d90db175342}">
 		<property name="note">
-			<value>PERSISTENT IS NEEDED SO THE INSTANCE WONT GET AUTOMATICALLY DELETED ITSELF INGAME WHEN IT ENDS ON SUSTAIN POINTS
-
-BTW The loop on It's Pizza Time! actually starts on beats 
-32, but it's uncomforting to hear it so i just put it in beats 72, if anyone want to change it, there you go</value>
+			<value>Features Pizza Time from Sage + a Mix of the old version of TDTIDIO, Nonagression and an older version of TDTIDIO</value>
 		</property>
 		<property name="name">
 			<value>pizzatimeOld</value>

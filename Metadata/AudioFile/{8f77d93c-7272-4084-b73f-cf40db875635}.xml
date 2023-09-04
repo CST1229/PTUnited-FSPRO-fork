@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{8f77d93c-7272-4084-b73f-cf40db875635}">
 		<property name="assetPath">
-			<value>ptuce/sfx_scream1.ogg</value>
+			<value>ptuce/sfx/sfx_scream1.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

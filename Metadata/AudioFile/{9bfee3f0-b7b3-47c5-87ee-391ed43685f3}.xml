@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{9bfee3f0-b7b3-47c5-87ee-391ed43685f3}">
 		<property name="assetPath">
-			<value>ptuce/mu_pizzanoescape.ogg</value>
+			<value>ptuce/pizzatime/mu_pizzanoescape.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

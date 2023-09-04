@@ -64,7 +64,7 @@
 	<object class="MarkerTrack" id="{b1c85d2a-86ce-46cf-8686-2039ee57fb78}" />
 	<object class="GroupTrack" id="{da67bc0c-88fc-43d3-a082-019606a8f4b4}">
 		<relationship name="modules">
-			<destination>{791df827-4257-4f3c-a7aa-e3b24e08d786}</destination>
+			<destination>{84ee38a8-2619-490a-8e79-ed8befcbf00e}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{5e03fb82-11ff-4abb-9ec0-6bf46e7fd6b9}</destination>
@@ -72,10 +72,7 @@
 	</object>
 	<object class="Timeline" id="{5648e3b5-185d-45c1-b9b1-dd34ccfd4316}">
 		<relationship name="modules">
-			<destination>{791df827-4257-4f3c-a7aa-e3b24e08d786}</destination>
-		</relationship>
-		<relationship name="markers">
-			<destination>{e14c1397-0a67-4345-a8da-8dc6bcbfae31}</destination>
+			<destination>{84ee38a8-2619-490a-8e79-ed8befcbf00e}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{a8b535f4-b782-4850-9ba3-d5d417c1c63e}">
@@ -95,7 +92,7 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{55e08b76-c64b-44d5-8f5e-1d441df0c624}" />
-	<object class="SingleSound" id="{791df827-4257-4f3c-a7aa-e3b24e08d786}">
+	<object class="SingleSound" id="{84ee38a8-2619-490a-8e79-ed8befcbf00e}">
 		<property name="length">
 			<value>338.46856250000002</value>
 		</property>
@@ -115,20 +112,6 @@
 		</relationship>
 		<relationship name="output">
 			<destination>{a8b535f4-b782-4850-9ba3-d5d417c1c63e}</destination>
-		</relationship>
-	</object>
-	<object class="LoopRegion" id="{e14c1397-0a67-4345-a8da-8dc6bcbfae31}">
-		<property name="position">
-			<value>27.658947451293134</value>
-		</property>
-		<property name="length">
-			<value>296.9853262586069</value>
-		</property>
-		<relationship name="timeline">
-			<destination>{5648e3b5-185d-45c1-b9b1-dd34ccfd4316}</destination>
-		</relationship>
-		<relationship name="markerTrack">
-			<destination>{b1c85d2a-86ce-46cf-8686-2039ee57fb78}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{898b44e0-0c4b-4c66-b6f1-52f921b6682f}">

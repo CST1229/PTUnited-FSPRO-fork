@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{eede7b6d-b129-4188-8de8-8476c0bf2958}">
+	<object class="AudioFile" id="{277726e4-ef6a-4977-9efd-57d44e614e3d}">
 		<property name="assetPath">
-			<value>ptuce/pizzelle/sfx_scream2.ogg</value>
+			<value>ptuce/character/wario/Bye Bye There Wario.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -11,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.88820861678004537</value>
+			<value>336.96759637188211</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>

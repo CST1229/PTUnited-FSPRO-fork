@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{fad128e7-fe35-4c53-8f50-ed7eb583dc5c}">
 		<property name="assetPath">
-			<value>DSPIZAHT.ogg</value>
+			<value>ptuce/sfx/pizzano/DSPIZAHT.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>192</value>

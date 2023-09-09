@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{f6ab4a0c-6d44-4412-9527-739f280ec02a}">
+	<object class="AudioFile" id="{a86a93db-b49f-4a0b-858e-0fe7ca3649e9}">
 		<property name="assetPath">
-			<value>ptuce/pizzelle/sfx_scream3.ogg</value>
+			<value>ptuce/sfx/sfx_scream4.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>2.5237188208616779</value>
+			<value>2.935034013605442</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>

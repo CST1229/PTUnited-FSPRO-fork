@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{409a52a9-9844-487e-9bbd-4fce22c42b78}">
+	<object class="AudioFile" id="{03b9df7d-28ae-4b05-a588-50a1a548251c}">
 		<property name="assetPath">
-			<value>ptuce/sfx/pizzano/DSPIZAGL.ogg</value>
+			<value>ptuce/sfx/pizzelle/DSPIZZA1.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>192</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>2.3846145833333332</value>
+			<value>2.3461562499999999</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>

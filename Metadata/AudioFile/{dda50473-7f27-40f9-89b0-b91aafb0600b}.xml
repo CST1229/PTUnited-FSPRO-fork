@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{dda50473-7f27-40f9-89b0-b91aafb0600b}">
 		<property name="assetPath">
-			<value>DSPIZZA2.ogg</value>
+			<value>ptuce/sfx/pizzelle/DSPIZZA2.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>192</value>

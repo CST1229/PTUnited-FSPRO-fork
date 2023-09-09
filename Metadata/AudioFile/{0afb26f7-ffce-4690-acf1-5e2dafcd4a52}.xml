@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{0afb26f7-ffce-4690-acf1-5e2dafcd4a52}">
 		<property name="assetPath">
-			<value>ptuce/anton/antonVoicehappyhour.ogg</value>
+			<value>ptuce/character/anton/antonVoicehappyhour.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

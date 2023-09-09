@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{4ae1603f-d116-4441-95d2-d4ccc8f5daad}">
 		<property name="assetPath">
-			<value>ptuce/anton/sfx_explosiveCrate.ogg</value>
+			<value>ptuce/character/anton/sfx_explosiveCrate.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>11.0249996</value>

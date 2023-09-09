@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{29aeb572-61c8-4305-a5ae-a7fb9f930af9}">
+	<object class="AudioFile" id="{128fd087-7cdf-47de-9410-6548c1801bf3}">
 		<property name="assetPath">
-			<value>DSPIZZH2.ogg</value>
+			<value>ptuce/sfx/pizzelle/VoicePZ-1.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>192</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{769b4b67-ee08-49d7-9123-30e057e6a5cb}">
 		<property name="assetPath">
-			<value>ptuce/anton/sfx_treasureCounter2.wav</value>
+			<value>ptuce/character/anton/sfx_treasureCounter2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

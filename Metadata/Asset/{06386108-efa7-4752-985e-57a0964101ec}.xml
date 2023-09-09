@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="EncodableAsset" id="{06386108-efa7-4752-985e-57a0964101ec}">
 		<property name="assetPath">
-			<value>ptuce/sonic/</value>
+			<value>ptuce/character/sonic/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>

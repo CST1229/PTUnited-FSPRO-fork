@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{4883345f-a8bb-47c3-a778-d56bbdd83fbe}">
+	<object class="AudioFile" id="{bb9bc65c-ccc2-4074-87a9-bf89c25e60e7}">
 		<property name="assetPath">
-			<value>DSPIZZGL.ogg</value>
+			<value>ptuce/sfx/pizzelle/Scream.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>192</value>

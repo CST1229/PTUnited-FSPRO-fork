@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{99d47656-035c-458e-9ffa-677ee57964e8}">
 		<property name="assetPath">
-			<value>ptuce/Wario/1-1 Hall Of Hieroglyphs.mp3</value>
+			<value>ptuce/character/wario/1-1 Hall Of Hieroglyphs.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{19f636cf-2bf2-4bf7-bc23-813a03445222}">
 		<property name="assetPath">
-			<value>ptuce/Wario/Coin_gold.wav</value>
+			<value>ptuce/character/wario/Coin_gold.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

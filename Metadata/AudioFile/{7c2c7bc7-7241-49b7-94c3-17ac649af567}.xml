@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{7c2c7bc7-7241-49b7-94c3-17ac649af567}">
 		<property name="assetPath">
-			<value>ptuce/pizzyfireass.ogg</value>
+			<value>ptuce/sfx/pizzelle/pizzyfireass.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

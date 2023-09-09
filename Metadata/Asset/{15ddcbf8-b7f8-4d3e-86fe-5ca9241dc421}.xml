@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="EncodableAsset" id="{15ddcbf8-b7f8-4d3e-86fe-5ca9241dc421}">
 		<property name="assetPath">
-			<value>ptuce/Wario/</value>
+			<value>ptuce/character/wario/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>

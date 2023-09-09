@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{0c08e2cb-43be-41e2-8417-9089652a06fb}">
+	<object class="AudioFile" id="{99cc73b5-6e15-41a6-a3f4-a99b773c4454}">
 		<property name="assetPath">
-			<value>ptuce/sfx/sfx_breakdancemusic_3bpm.wav</value>
+			<value>ptuce/sfx/machold/sound_dash1.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="length">
-			<value>0.79997916666666669</value>
+			<value>1.4889795918367348</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>

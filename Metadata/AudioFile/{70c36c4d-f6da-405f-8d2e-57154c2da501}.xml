@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{128fd087-7cdf-47de-9410-6548c1801bf3}">
+	<object class="AudioFile" id="{70c36c4d-f6da-405f-8d2e-57154c2da501}">
 		<property name="assetPath">
-			<value>ptuce/pizzelle/VoicePZ-1.ogg</value>
+			<value>ptuce/sfx_scream9.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>192</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>2.3461562499999999</value>
+			<value>0.55727891156462583</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{bf575252-09c1-4fff-a9f7-5be08d17b6ed}</destination>

@@ -8,7 +8,7 @@
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{8e3e3de0-7e0e-4107-9f13-a914c1ff6275}</destination>
+			<destination>{8135a93f-49ab-480a-ac40-754cf1f0d387}</destination>
 		</relationship>
 		<relationship name="tags">
 			<destination>{efb10652-a274-4514-bb59-37d938e37666}</destination>
@@ -129,7 +129,7 @@
 	</object>
 	<object class="SingleSound" id="{e941b672-83ad-47c2-9695-7274be8b2520}">
 		<property name="start">
-			<value>159.11489361702127</value>
+			<value>136</value>
 		</property>
 		<property name="length">
 			<value>69.819501133786815</value>
@@ -140,7 +140,7 @@
 	</object>
 	<object class="SingleSound" id="{077e3342-bca9-4f4a-8227-e50df883b1a5}">
 		<property name="start">
-			<value>91.914893617021278</value>
+			<value>80</value>
 		</property>
 		<property name="length">
 			<value>50.399999999999999</value>
@@ -154,7 +154,7 @@
 	</object>
 	<object class="SingleSound" id="{b21c75e1-eee2-41e3-b046-d7de2206a418}">
 		<property name="start">
-			<value>250.75125725338489</value>
+			<value>212</value>
 		</property>
 		<property name="length">
 			<value>50.399999999999999</value>
@@ -207,7 +207,7 @@
 	</object>
 	<object class="TempoMarker" id="{19e4fd76-d6c6-4b3c-8884-2abb39012712}">
 		<property name="position">
-			<value>159.11489361702127</value>
+			<value>136</value>
 		</property>
 		<property name="tempo">
 			<value>110</value>
@@ -221,7 +221,7 @@
 	</object>
 	<object class="LoopRegion" id="{2c6d178a-70ee-4812-8975-b7188f6ee322}">
 		<property name="position">
-			<value>159.11489361702127</value>
+			<value>136</value>
 		</property>
 		<property name="length">
 			<value>69.819501133786815</value>
@@ -235,7 +235,7 @@
 	</object>
 	<object class="LoopRegion" id="{79bfc3bf-37e8-4b01-9e92-d542f753da44}">
 		<property name="position">
-			<value>159.11489361702127</value>
+			<value>136</value>
 		</property>
 		<property name="length">
 			<value>69.819501133786844</value>
@@ -276,7 +276,7 @@
 	</object>
 	<object class="TempoMarker" id="{a47bd08c-f27c-43a8-a9aa-40041cee75e5}">
 		<property name="position">
-			<value>91.914893617021278</value>
+			<value>80</value>
 		</property>
 		<property name="tempo">
 			<value>100</value>
@@ -290,7 +290,7 @@
 	</object>
 	<object class="LoopRegion" id="{8469d9e2-c5e5-4041-93ac-908e8d175d45}">
 		<property name="position">
-			<value>91.914893617021278</value>
+			<value>80</value>
 		</property>
 		<property name="length">
 			<value>50.399999999999999</value>
@@ -304,7 +304,7 @@
 	</object>
 	<object class="LoopRegion" id="{b895c181-f5cc-4f33-9bff-b46c07e1d8b0}">
 		<property name="position">
-			<value>91.914893617021278</value>
+			<value>80</value>
 		</property>
 		<property name="length">
 			<value>50.399999999999999</value>
@@ -327,7 +327,7 @@
 	</object>
 	<object class="TempoMarker" id="{0ba7c6fe-8d9b-4af1-ae88-0bca8591cda9}">
 		<property name="position">
-			<value>250.75125725338489</value>
+			<value>212</value>
 		</property>
 		<property name="tempo">
 			<value>100</value>
@@ -341,7 +341,7 @@
 	</object>
 	<object class="LoopRegion" id="{9b5e2170-36ed-4d90-8618-b2f7c0dfa4f9}">
 		<property name="position">
-			<value>250.75125725338489</value>
+			<value>212</value>
 		</property>
 		<property name="length">
 			<value>50.399999999999999</value>
@@ -355,7 +355,7 @@
 	</object>
 	<object class="LoopRegion" id="{50cc73d5-a82e-4656-bb4e-c78fa33c66d7}">
 		<property name="position">
-			<value>250.75125725338489</value>
+			<value>212</value>
 		</property>
 		<property name="length">
 			<value>50.399999999999999</value>
@@ -391,10 +391,10 @@
 	<object class="MixerBusPanner" id="{276a696f-157d-4a4c-9f60-4d0b4c9105fd}" />
 	<object class="ParameterCondition" id="{7d8ae531-2ab7-4649-8689-0f1de8630898}">
 		<property name="minimum">
-			<value>3</value>
+			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>3</value>
+			<value>2</value>
 		</property>
 		<relationship name="parameter">
 			<destination>{8e74c9aa-ea9a-4865-ab4f-6157b28453df}</destination>
@@ -402,7 +402,7 @@
 	</object>
 	<object class="ParameterCondition" id="{dbd7df55-e5b8-4278-9069-2a13cc011ce4}">
 		<property name="minimum">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="maximum">
 			<value>3</value>
@@ -416,10 +416,10 @@
 	</object>
 	<object class="ParameterCondition" id="{0c70b85d-e6d2-44e5-b0ab-d0bc3112feae}">
 		<property name="minimum">
-			<value>7</value>
+			<value>4</value>
 		</property>
 		<property name="maximum">
-			<value>7</value>
+			<value>4</value>
 		</property>
 		<property name="isInverted">
 			<value>true</value>
@@ -430,10 +430,10 @@
 	</object>
 	<object class="ParameterCondition" id="{8d4a997d-cfc1-4bea-b4f7-f580719d3383}">
 		<property name="minimum">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="maximum">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="parameter">
 			<destination>{8e74c9aa-ea9a-4865-ab4f-6157b28453df}</destination>
@@ -441,10 +441,10 @@
 	</object>
 	<object class="ParameterCondition" id="{1696283c-1fa9-47cd-8647-43c65cec4312}">
 		<property name="minimum">
-			<value>7</value>
+			<value>3</value>
 		</property>
 		<property name="maximum">
-			<value>7</value>
+			<value>3</value>
 		</property>
 		<relationship name="parameter">
 			<destination>{8e74c9aa-ea9a-4865-ab4f-6157b28453df}</destination>

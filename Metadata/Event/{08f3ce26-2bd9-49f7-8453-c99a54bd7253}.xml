@@ -8,7 +8,7 @@
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{8e3e3de0-7e0e-4107-9f13-a914c1ff6275}</destination>
+			<destination>{8135a93f-49ab-480a-ac40-754cf1f0d387}</destination>
 		</relationship>
 		<relationship name="tags">
 			<destination>{efb10652-a274-4514-bb59-37d938e37666}</destination>
@@ -113,6 +113,9 @@
 	</object>
 	<object class="MixerBusPanner" id="{37fa05e2-a029-4e74-951d-0bea998fe6e9}" />
 	<object class="SingleSound" id="{149aa036-dfe3-4be4-9bd7-b8c8d7453fa1}">
+		<property name="start">
+			<value>77.5</value>
+		</property>
 		<property name="length">
 			<value>50.399999999999999</value>
 		</property>
@@ -124,9 +127,6 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{8e343957-e621-4e2d-992a-c6881b5a5865}">
-		<property name="start">
-			<value>54.5</value>
-		</property>
 		<property name="length">
 			<value>71.489365079365086</value>
 		</property>
@@ -150,7 +150,7 @@
 	</object>
 	<object class="LoopRegion" id="{0f3ed6a2-a393-4955-9110-69d1df0380ca}">
 		<property name="position">
-			<value>0</value>
+			<value>77.5</value>
 		</property>
 		<property name="length">
 			<value>50.399999999999999</value>
@@ -164,7 +164,7 @@
 	</object>
 	<object class="TempoMarker" id="{419a50d1-d32c-48f4-93f0-feb9fba1615b}">
 		<property name="position">
-			<value>0</value>
+			<value>77.5</value>
 		</property>
 		<property name="tempo">
 			<value>100</value>
@@ -178,7 +178,7 @@
 	</object>
 	<object class="LoopRegion" id="{dec3b87b-cd7f-4ff8-9d4e-20585afde203}">
 		<property name="position">
-			<value>0</value>
+			<value>77.5</value>
 		</property>
 		<property name="length">
 			<value>50.399999999999999</value>
@@ -201,7 +201,7 @@
 	</object>
 	<object class="LoopRegion" id="{bb3cee77-8e81-47e5-8f8b-3140ebbb8daf}">
 		<property name="position">
-			<value>54.5</value>
+			<value>0</value>
 		</property>
 		<property name="length">
 			<value>71.489365079365086</value>
@@ -224,7 +224,7 @@
 	</object>
 	<object class="LoopRegion" id="{80f19d3b-7f5e-4688-bd28-a8eb5dc8954a}">
 		<property name="position">
-			<value>54.5</value>
+			<value>0</value>
 		</property>
 		<property name="length">
 			<value>71.489365079365086</value>
@@ -238,7 +238,7 @@
 	</object>
 	<object class="TempoMarker" id="{a6d09e70-4acf-497f-8af5-d18da992b2e6}">
 		<property name="position">
-			<value>54.5</value>
+			<value>0</value>
 		</property>
 		<property name="tempo">
 			<value>94</value>

@@ -124,9 +124,6 @@
 		<property name="length">
 			<value>336.96759637188211</value>
 		</property>
-		<relationship name="audioFile">
-			<destination>{277726e4-ef6a-4977-9efd-57d44e614e3d}</destination>
-		</relationship>
 	</object>
 	<object class="SingleSound" id="{d2b47445-fde1-4c71-8f9d-77c53fdb892c}">
 		<property name="length">

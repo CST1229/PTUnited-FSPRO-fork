@@ -42,6 +42,9 @@ Oofator </value>
 		<relationship name="timeline">
 			<destination>{6e838e3a-2704-4849-8aaa-7d43fda5131f}</destination>
 		</relationship>
+		<relationship name="banks">
+			<destination>{16de4e46-bce0-4a42-a53f-ebfb0a6d79b0}</destination>
+		</relationship>
 		<relationship name="defaultEvent">
 			<destination>{a20059b3-841d-4365-b7a5-a8aa1bf37cf8}</destination>
 		</relationship>

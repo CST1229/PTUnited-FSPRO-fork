@@ -4,6 +4,9 @@
 		<property name="assetPath">
 			<value>ptuce/pizzatime/068_-_Dialgas_Fight_to_the_Finish_-_Pokemon_Mystery_Dungeon_-_Explorers_of_Sky.ogg</value>
 		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
 		</property>

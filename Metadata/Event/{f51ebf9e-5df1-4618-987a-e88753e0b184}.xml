@@ -43,7 +43,7 @@ Oofator </value>
 			<destination>{6e838e3a-2704-4849-8aaa-7d43fda5131f}</destination>
 		</relationship>
 		<relationship name="banks">
-			<destination>{6cdd28d9-aed1-4187-9f41-1908e12cdd20}</destination>
+			<destination>{8fbcb197-218e-4644-8bab-1aeff5a15ba8}</destination>
 		</relationship>
 		<relationship name="defaultEvent">
 			<destination>{a20059b3-841d-4365-b7a5-a8aa1bf37cf8}</destination>

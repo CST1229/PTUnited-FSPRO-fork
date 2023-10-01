@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{2c16a1c7-430d-4040-8070-78dfe9608375}">
+		<property name="name">
+			<value>flingfrog</value>
+		</property>
+		<relationship name="folder">
+			<destination>{8b650654-d288-4487-be9a-36219aba34e3}</destination>
+		</relationship>
+	</object>
+</objects>

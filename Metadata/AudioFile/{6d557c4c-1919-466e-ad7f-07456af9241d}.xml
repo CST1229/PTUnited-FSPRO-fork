@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{6d557c4c-1919-466e-ad7f-07456af9241d}">
 		<property name="assetPath">
-			<value>clowncar-reenter.ogg</value>
+			<value>ptuce/sfx/smwmario/clowncar-reenter.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

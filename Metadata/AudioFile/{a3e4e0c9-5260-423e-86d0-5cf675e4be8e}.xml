@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{a3e4e0c9-5260-423e-86d0-5cf675e4be8e}">
 		<property name="assetPath">
-			<value>coin-special.ogg</value>
+			<value>ptuce/sfx/smwmario/coin-special.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

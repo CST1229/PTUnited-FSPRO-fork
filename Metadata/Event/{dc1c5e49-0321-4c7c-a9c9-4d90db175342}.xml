@@ -336,6 +336,9 @@
 		<relationship name="transitionTimeline">
 			<destination>{a748941b-3025-415a-9105-78e302bbf242}</destination>
 		</relationship>
+		<relationship name="destination">
+			<destination>{56fab0c9-33dc-4f04-b605-24ea152d9ac1}</destination>
+		</relationship>
 		<relationship name="triggerConditions">
 			<destination>{036dcd16-8496-4136-89f7-40b09665d2eb}</destination>
 			<destination>{d0f70a15-3fab-42fc-a906-13042e567b79}</destination>

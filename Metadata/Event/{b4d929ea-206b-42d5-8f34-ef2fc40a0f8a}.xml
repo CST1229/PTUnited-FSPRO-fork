@@ -40,6 +40,9 @@
 		<relationship name="timeline">
 			<destination>{3e202aef-4018-4321-8075-83b491040b28}</destination>
 		</relationship>
+		<relationship name="banks">
+			<destination>{8fbcb197-218e-4644-8bab-1aeff5a15ba8}</destination>
+		</relationship>
 		<relationship name="defaultEvent">
 			<destination>{a20059b3-841d-4365-b7a5-a8aa1bf37cf8}</destination>
 		</relationship>
@@ -399,7 +402,6 @@
 		<property name="length">
 			<value>127.4023958601141</value>
 		</property>
-		<property name="name" />
 		<relationship name="timeline">
 			<destination>{3e202aef-4018-4321-8075-83b491040b28}</destination>
 		</relationship>

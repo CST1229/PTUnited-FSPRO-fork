@@ -121,10 +121,10 @@
 	</object>
 	<object class="LoopRegion" id="{07035a78-d2c6-477c-9e61-2790f4c715e4}">
 		<property name="position">
-			<value>16</value>
+			<value>15.121839080459768</value>
 		</property>
 		<property name="length">
-			<value>96</value>
+			<value>96.878160919540235</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{3e7b46a1-2f80-44ae-8539-a91fcc7b019e}</destination>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{836df34b-01cd-4c9d-9a74-a376ac7043dd}">
+		<property name="note">
+			<value>music</value>
+		</property>
 		<property name="assetPath">
 			<value>ptuce/toughguyalert.wav</value>
 		</property>

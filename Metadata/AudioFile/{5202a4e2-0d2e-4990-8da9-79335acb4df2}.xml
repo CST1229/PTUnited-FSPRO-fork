@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{5202a4e2-0d2e-4990-8da9-79335acb4df2}">
 		<property name="assetPath">
-			<value>ptuce/secretlockin.wav</value>
+			<value>ptuce/music/secretlockin.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

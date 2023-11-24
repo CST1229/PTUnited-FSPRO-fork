@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{622106f9-e425-45e2-9e2c-7aa83f3e14e8}">
 		<property name="assetPath">
-			<value>fakepep mach1.wav</value>
+			<value>ptuce/sfx/fakepep mach1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

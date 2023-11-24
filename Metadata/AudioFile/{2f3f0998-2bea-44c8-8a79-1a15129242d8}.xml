@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{2f3f0998-2bea-44c8-8a79-1a15129242d8}">
 		<property name="assetPath">
-			<value>ptuce/mu_deathmode.ogg</value>
+			<value>ptuce/music/mu_deathmode.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{6e08cdb0-6dc2-4a36-a19c-5f54d303fb0e}">
 		<property name="assetPath">
-			<value>ptuce/jazzrrf.wav</value>
+			<value>ptuce/music/jazzrrf.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

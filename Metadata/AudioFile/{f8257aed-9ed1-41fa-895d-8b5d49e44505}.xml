@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{f8257aed-9ed1-41fa-895d-8b5d49e44505}">
 		<property name="assetPath">
-			<value>ptuce/pizzatime/Pizza-Tower-Pillar-John_s-Revenge-_Lap-3-Fanmade-OST.ogg</value>
+			<value>ptuce/music/pizzatime/Pizza-Tower-Pillar-John_s-Revenge-_Lap-3-Fanmade-OST.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

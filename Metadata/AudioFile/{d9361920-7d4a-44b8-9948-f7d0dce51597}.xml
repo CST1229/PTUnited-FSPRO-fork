@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{d9361920-7d4a-44b8-9948-f7d0dce51597}">
 		<property name="assetPath">
-			<value>ptuce/mu_entrywaysecret.ogg</value>
+			<value>ptuce/music/mu_entrywaysecret.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

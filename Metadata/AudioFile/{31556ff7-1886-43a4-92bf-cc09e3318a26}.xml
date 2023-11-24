@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{31556ff7-1886-43a4-92bf-cc09e3318a26}">
 		<property name="assetPath">
-			<value>ptuce/fnaf.ogg</value>
+			<value>ptuce/music/fnaf.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

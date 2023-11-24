@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{0e3bef86-0a3d-44a8-bbfd-e5b0762c289b}">
 		<property name="assetPath">
-			<value>ptuce/character/wario/Bye Bye There Wario.ogg</value>
+			<value>ptuce/music/character/wario/Bye Bye There Wario.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

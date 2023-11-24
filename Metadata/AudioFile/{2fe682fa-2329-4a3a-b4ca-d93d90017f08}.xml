@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{2fe682fa-2329-4a3a-b4ca-d93d90017f08}">
 		<property name="assetPath">
-			<value>snd_lockon.ogg</value>
+			<value>ptuce/sfx/snd_lockon.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

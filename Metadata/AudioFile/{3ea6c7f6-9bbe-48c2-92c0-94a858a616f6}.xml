@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{3ea6c7f6-9bbe-48c2-92c0-94a858a616f6}">
 		<property name="assetPath">
-			<value>ptuce/sucrose_soundcloud.ogg</value>
+			<value>ptuce/music/sucrose_soundcloud.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

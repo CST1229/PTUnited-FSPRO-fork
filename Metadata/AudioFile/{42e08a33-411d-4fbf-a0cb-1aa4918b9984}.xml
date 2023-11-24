@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{42e08a33-411d-4fbf-a0cb-1aa4918b9984}">
 		<property name="assetPath">
-			<value>ptuce/palettegirllaugh.wav</value>
+			<value>ptuce/sfx/palettegirllaugh.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

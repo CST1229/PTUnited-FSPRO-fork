@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{df284759-705e-411d-a9d9-4e0dfbf18d00}">
 		<property name="assetPath">
-			<value>ptuce/pizzatime/snickiscoming.ogg</value>
+			<value>ptuce/music/pizzatime/snickiscoming.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

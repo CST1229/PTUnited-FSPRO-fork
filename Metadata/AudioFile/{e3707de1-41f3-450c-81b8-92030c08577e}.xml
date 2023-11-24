@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{e3707de1-41f3-450c-81b8-92030c08577e}">
 		<property name="assetPath">
-			<value>ptuce/sonicescape.wav</value>
+			<value>ptuce/music/sonicescape.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{d650bfac-7474-451e-a3f3-e86e41c78052}">
 		<property name="assetPath">
-			<value>ptuce/toobad.wav</value>
+			<value>ptuce/sfx/toobad.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

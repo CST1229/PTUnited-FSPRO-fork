@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{c99c2f39-baf0-4f09-a60a-d95dc0de7d09}">
 		<property name="assetPath">
-			<value>ptuce/mu_swamp2.ogg</value>
+			<value>ptuce/music/mu_swamp2.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

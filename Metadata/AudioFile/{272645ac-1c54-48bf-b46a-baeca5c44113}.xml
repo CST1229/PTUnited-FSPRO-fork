@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{272645ac-1c54-48bf-b46a-baeca5c44113}">
 		<property name="assetPath">
-			<value>ptuce/smwescape.wav</value>
+			<value>ptuce/music/smwescape.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

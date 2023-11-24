@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{bdcbe7c0-ce93-4111-91ce-3eb5d7de0115}">
 		<property name="assetPath">
-			<value>jam_taunt.ogg</value>
+			<value>ptuce/sfx/jam_taunt.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

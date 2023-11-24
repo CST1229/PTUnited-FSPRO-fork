@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{2350414e-f29e-4bf9-ad31-e5c87e608274}">
 		<property name="assetPath">
-			<value>grinchtitle.ogg</value>
+			<value>ptuce/music/grinchtitle.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

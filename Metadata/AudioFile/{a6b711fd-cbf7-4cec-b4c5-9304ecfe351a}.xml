@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{a6b711fd-cbf7-4cec-b4c5-9304ecfe351a}">
 		<property name="assetPath">
-			<value>Here comes Pizzano!.mp3</value>
+			<value>ptuce/music/Here comes Pizzano!.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

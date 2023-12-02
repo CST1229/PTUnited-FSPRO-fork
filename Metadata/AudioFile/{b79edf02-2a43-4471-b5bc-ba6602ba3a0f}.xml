@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{b79edf02-2a43-4471-b5bc-ba6602ba3a0f}">
 		<property name="assetPath">
-			<value>ptuce/character/sonic/thok.wav</value>
+			<value>ptuce/music/character/sonic/thok.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>22.0499992</value>

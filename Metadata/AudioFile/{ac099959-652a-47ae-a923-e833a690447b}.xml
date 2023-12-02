@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{ac099959-652a-47ae-a923-e833a690447b}">
 		<property name="assetPath">
-			<value>grinch.wav</value>
+			<value>ptuce/music/grinch.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

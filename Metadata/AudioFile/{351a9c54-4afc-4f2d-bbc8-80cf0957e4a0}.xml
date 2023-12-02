@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{351a9c54-4afc-4f2d-bbc8-80cf0957e4a0}">
 		<property name="assetPath">
-			<value>ptuce/character/pizzelle/the lazy wasteyard secret.ogg</value>
+			<value>ptuce/music/character/pizzelle/the lazy wasteyard secret.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

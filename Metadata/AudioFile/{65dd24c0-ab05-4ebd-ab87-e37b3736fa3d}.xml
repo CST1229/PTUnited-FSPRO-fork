@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{65dd24c0-ab05-4ebd-ab87-e37b3736fa3d}">
 		<property name="assetPath">
-			<value>ptuce/pizzatime/Pizza Tower  Absolute AbsurZiti V2 Lap 4 Fanmade OST.ogg</value>
+			<value>ptuce/music/pizzatime/Pizza Tower  Absolute AbsurZiti V2 Lap 4 Fanmade OST.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

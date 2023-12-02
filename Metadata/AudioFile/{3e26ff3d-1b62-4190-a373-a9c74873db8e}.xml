@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{3e26ff3d-1b62-4190-a373-a9c74873db8e}">
 		<property name="assetPath">
-			<value>ptuce/mu_chateauhardoween.ogg</value>
+			<value>ptuce/music/mu_chateauhardoween.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

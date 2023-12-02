@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{a9e5b68f-39bf-4248-bb21-18a08f0ed5ba}">
 		<property name="assetPath">
-			<value>ptuce/character/olimar/breakdance.wav</value>
+			<value>ptuce/music/character/olimar/breakdance.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

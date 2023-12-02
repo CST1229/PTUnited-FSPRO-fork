@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{e0d92971-d069-4c42-8688-fb8f0a5c2774}">
 		<property name="assetPath">
-			<value>ptuce/somewhat higher effort cottontown secret.ogg</value>
+			<value>ptuce/music/somewhat higher effort cottontown secret.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

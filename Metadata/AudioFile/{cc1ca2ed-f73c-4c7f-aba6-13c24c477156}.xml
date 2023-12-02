@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{cc1ca2ed-f73c-4c7f-aba6-13c24c477156}">
 		<property name="assetPath">
-			<value>ptuce/character/sonic/spindash.wav</value>
+			<value>ptuce/music/character/sonic/spindash.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

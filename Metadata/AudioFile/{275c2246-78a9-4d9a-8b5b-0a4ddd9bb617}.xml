@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{275c2246-78a9-4d9a-8b5b-0a4ddd9bb617}">
 		<property name="assetPath">
-			<value>LAPPY_2.ogg</value>
+			<value>ptuce/music/LAPPY_2.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

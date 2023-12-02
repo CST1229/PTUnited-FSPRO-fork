@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{b6500508-f6b7-429b-9564-5e105972035a}">
 		<property name="assetPath">
-			<value>sotwtitlecard.wav</value>
+			<value>ptuce/music/sotwtitlecard.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

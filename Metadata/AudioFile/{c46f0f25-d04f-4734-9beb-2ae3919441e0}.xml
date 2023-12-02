@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{c46f0f25-d04f-4734-9beb-2ae3919441e0}">
 		<property name="assetPath">
-			<value>ptuce/mu_forestBN.wav</value>
+			<value>ptuce/music/mu_forestBN.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

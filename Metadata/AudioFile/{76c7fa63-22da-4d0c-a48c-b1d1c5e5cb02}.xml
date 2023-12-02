@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{76c7fa63-22da-4d0c-a48c-b1d1c5e5cb02}">
 		<property name="assetPath">
-			<value>halloweenpause.wav</value>
+			<value>ptuce/music/halloweenpause.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{a431190d-892b-4b0a-ab64-614aa375c825}">
 		<property name="assetPath">
-			<value>sfx_flingfrog.wav</value>
+			<value>ptuce/sfx/sfx_flingfrog.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

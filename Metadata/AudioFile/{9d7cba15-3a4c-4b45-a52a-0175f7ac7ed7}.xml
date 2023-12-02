@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{9d7cba15-3a4c-4b45-a52a-0175f7ac7ed7}">
 		<property name="assetPath">
-			<value>ptuce/pizzatime/Pasta La Vista.mp3</value>
+			<value>ptuce/music/pizzatime/Pasta La Vista.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

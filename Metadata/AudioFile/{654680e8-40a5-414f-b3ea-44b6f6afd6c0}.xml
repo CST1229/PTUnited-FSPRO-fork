@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{654680e8-40a5-414f-b3ea-44b6f6afd6c0}">
 		<property name="assetPath">
-			<value>ptuce/mu_medievalremix.ogg</value>
+			<value>ptuce/music/mu_medievalremix.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

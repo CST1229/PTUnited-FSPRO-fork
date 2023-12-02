@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{e9a86e30-8535-40ba-b7f9-488b55a30c0f}">
 		<property name="assetPath">
-			<value>ptuce/character/sonic/jump.wav</value>
+			<value>ptuce/music/character/sonic/jump.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

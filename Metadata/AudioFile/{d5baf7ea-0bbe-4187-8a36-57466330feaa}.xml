@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{d5baf7ea-0bbe-4187-8a36-57466330feaa}">
 		<property name="assetPath">
-			<value>ptuce/jingle/ctopjingle.wav</value>
+			<value>ptuce/music/jingle/ctopjingle.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

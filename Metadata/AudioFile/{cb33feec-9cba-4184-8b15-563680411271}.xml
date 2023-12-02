@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{cb33feec-9cba-4184-8b15-563680411271}">
 		<property name="assetPath">
-			<value>ptuce/mu_steamysecret.ogg</value>
+			<value>ptuce/music/mu_steamysecret.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

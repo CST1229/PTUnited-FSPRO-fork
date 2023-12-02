@@ -5,7 +5,7 @@
 			<value>music</value>
 		</property>
 		<property name="assetPath">
-			<value>ptuce/toughguyalert.wav</value>
+			<value>ptuce/music/toughguyalert.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

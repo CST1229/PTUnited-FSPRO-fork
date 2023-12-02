@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{8b8cbec7-3d14-48f7-a72c-e237b2c35fa9}">
 		<property name="assetPath">
-			<value>ptuce/Steamy Cotton Candy V1 (Outdated).mp3</value>
+			<value>ptuce/music/Steamy Cotton Candy V1 (Outdated).mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

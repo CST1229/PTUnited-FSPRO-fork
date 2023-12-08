@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{fdb59c76-c96b-43a8-b3ef-d865ce429114}">
 		<property name="assetPath">
-			<value>ptuce/music/cosmic.wav</value>
+			<value>ptuce/cosmic.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

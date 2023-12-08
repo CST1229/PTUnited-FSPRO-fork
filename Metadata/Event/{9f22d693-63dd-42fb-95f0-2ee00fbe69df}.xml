@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{9f22d693-63dd-42fb-95f0-2ee00fbe69df}">
 		<property name="name">
-			<value>lap3to10</value>
+			<value>lap345</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -37,7 +37,7 @@
 			<destination>{a1b6af1d-5a6f-4f1f-95b5-9ff08da1c8c5}</destination>
 		</relationship>
 		<relationship name="banks">
-			<destination>{6cdd28d9-aed1-4187-9f41-1908e12cdd20}</destination>
+			<destination>{afafa8d7-b4d8-4727-b4b8-fdc89dcfefb5}</destination>
 		</relationship>
 		<relationship name="defaultEvent">
 			<destination>{10e155a1-88f8-4cc2-b7dd-ba94d92f44d7}</destination>

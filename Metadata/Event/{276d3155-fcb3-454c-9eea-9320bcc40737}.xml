@@ -48,6 +48,9 @@
 		</relationship>
 	</object>
 	<object class="MasterTrack" id="{401a45f8-51ea-4498-b53a-6929f6f93d33}">
+		<relationship name="modules">
+			<destination>{d88bb5a3-9423-412e-9275-019e09a7ab6f}</destination>
+		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{23f0f04e-6e8e-4c97-a2e0-b45d87d0b20c}</destination>
 		</relationship>
@@ -76,6 +79,7 @@
 	<object class="Timeline" id="{a9446504-be0e-4060-bbb3-0b483d9a5e06}">
 		<relationship name="modules">
 			<destination>{96fc5ee2-5229-4433-8096-15b556cbaafc}</destination>
+			<destination>{d88bb5a3-9423-412e-9275-019e09a7ab6f}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{d2f261db-794a-4153-b3c4-3831ee307f4d}</destination>
@@ -92,6 +96,17 @@
 			<destination>{ed2310fa-f81d-43ca-9b98-4396e74b8069}</destination>
 		</relationship>
 	</object>
+	<object class="SingleSound" id="{d88bb5a3-9423-412e-9275-019e09a7ab6f}">
+		<property name="start">
+			<value>134.13412499999998</value>
+		</property>
+		<property name="length">
+			<value>3.2043541666666666</value>
+		</property>
+		<relationship name="audioFile">
+			<destination>{eb385141-1c69-4d27-9d94-11cdc3fac464}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusEffectChain" id="{1a3940ba-13ba-405a-a228-047833686ec4}">
 		<relationship name="effects">
 			<destination>{c9cdcad9-52dd-4dc3-b7e5-ddcad509df8c}</destination>
@@ -100,7 +115,7 @@
 	<object class="MixerBusPanner" id="{793f3008-527c-452f-b3d0-9113441692bd}" />
 	<object class="SingleSound" id="{96fc5ee2-5229-4433-8096-15b556cbaafc}">
 		<property name="length">
-			<value>128.71467989835637</value>
+			<value>134.13412499999998</value>
 		</property>
 		<property name="timelockedOffset">
 			<value>1.9000000000000004</value>
@@ -125,10 +140,10 @@
 	</object>
 	<object class="LoopRegion" id="{d2f261db-794a-4153-b3c4-3831ee307f4d}">
 		<property name="position">
-			<value>60</value>
+			<value>0</value>
 		</property>
 		<property name="length">
-			<value>68.714679898356366</value>
+			<value>137.33847916666664</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{a9446504-be0e-4060-bbb3-0b483d9a5e06}</destination>

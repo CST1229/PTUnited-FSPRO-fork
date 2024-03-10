@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{f68e7b47-87f9-4d90-9994-a82bb381174e}">
-		<property name="note">
-			<value>PERSISTENT IS NEEDED SO THE INSTANCE WONT GET AUTOMATICALLY DELETED ITSELF INGAME WHEN IT ENDS ON SUSTAIN POINTS
-
-BTW The loop on It's Pizza Time! actually starts on beats 
-32, but it's uncomforting to hear it so i just put it in beats 72, if anyone want to change it, there you go</value>
-		</property>
+		<property name="note" />
 		<property name="name">
 			<value>pizzatimeCommunalPep</value>
 		</property>

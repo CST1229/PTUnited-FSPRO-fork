@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{b6b8ca56-5a9a-4c6d-9f31-5eaed7609506}">
-		<property name="note">
-			<value>PERSISTENT IS NEEDED SO THE INSTANCE WONT GET AUTOMATICALLY DELETED ITSELF INGAME WHEN IT ENDS ON SUSTAIN POINTS
-
-BTW The loop on It's Pizza Time! actually starts on beats 
-32, but it's uncomforting to hear it so i just put it in beats 72, if anyone want to change it, there you go</value>
-		</property>
+		<property name="note" />
 		<property name="name">
 			<value>pizzatimeWaluigiPinball</value>
 		</property>
@@ -112,6 +107,10 @@ BTW The loop on It's Pizza Time! actually starts on beats
 			<destination>{de42a1cb-cbcd-4ab1-a6a1-823c9f04d302}</destination>
 			<destination>{95676fa0-9ba9-4b20-be19-0e6ad87f2e4b}</destination>
 			<destination>{3bfe0066-7640-4283-8709-008af56c50c6}</destination>
+			<destination>{19d1305c-687b-40d4-b285-f733411bfc30}</destination>
+			<destination>{9d40bf05-6660-4d46-b39a-3744c4509f8e}</destination>
+			<destination>{b9cd9609-e327-49a7-a1dc-b892031951b6}</destination>
+			<destination>{4d2726b4-27f7-45c0-8deb-76b80c7849b6}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{8209bb04-1a7e-47f9-aa8d-0114442d5c82}">
@@ -348,6 +347,62 @@ BTW The loop on It's Pizza Time! actually starts on beats
 		</relationship>
 		<relationship name="markerTrack">
 			<destination>{2c6919db-a276-422d-a227-47806068907b}</destination>
+		</relationship>
+	</object>
+	<object class="TempoMarker" id="{19d1305c-687b-40d4-b285-f733411bfc30}">
+		<property name="position">
+			<value>40</value>
+		</property>
+		<property name="tempo">
+			<value>180</value>
+		</property>
+		<relationship name="timeline">
+			<destination>{f0260dc9-c870-4e27-8a55-24d6948e5907}</destination>
+		</relationship>
+		<relationship name="markerTrack">
+			<destination>{20025076-78aa-4375-86e1-65697a0a67b9}</destination>
+		</relationship>
+	</object>
+	<object class="TempoMarker" id="{9d40bf05-6660-4d46-b39a-3744c4509f8e}">
+		<property name="position">
+			<value>70</value>
+		</property>
+		<property name="tempo">
+			<value>60</value>
+		</property>
+		<relationship name="timeline">
+			<destination>{f0260dc9-c870-4e27-8a55-24d6948e5907}</destination>
+		</relationship>
+		<relationship name="markerTrack">
+			<destination>{20025076-78aa-4375-86e1-65697a0a67b9}</destination>
+		</relationship>
+	</object>
+	<object class="TempoMarker" id="{b9cd9609-e327-49a7-a1dc-b892031951b6}">
+		<property name="position">
+			<value>125.28326530612244</value>
+		</property>
+		<property name="tempo">
+			<value>151.5</value>
+		</property>
+		<relationship name="timeline">
+			<destination>{f0260dc9-c870-4e27-8a55-24d6948e5907}</destination>
+		</relationship>
+		<relationship name="markerTrack">
+			<destination>{20025076-78aa-4375-86e1-65697a0a67b9}</destination>
+		</relationship>
+	</object>
+	<object class="TempoMarker" id="{4d2726b4-27f7-45c0-8deb-76b80c7849b6}">
+		<property name="position">
+			<value>148.80174969793941</value>
+		</property>
+		<property name="tempo">
+			<value>180</value>
+		</property>
+		<relationship name="timeline">
+			<destination>{f0260dc9-c870-4e27-8a55-24d6948e5907}</destination>
+		</relationship>
+		<relationship name="markerTrack">
+			<destination>{20025076-78aa-4375-86e1-65697a0a67b9}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{3b14a8f5-ddaf-4c6c-a57b-2f89a85169e9}">

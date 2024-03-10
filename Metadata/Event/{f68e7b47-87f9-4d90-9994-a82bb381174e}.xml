@@ -44,7 +44,7 @@ BTW The loop on It's Pizza Time! actually starts on beats
 			<destination>{a18404ec-e2ac-4c53-b3e3-824ff6cd91d9}</destination>
 		</relationship>
 		<relationship name="banks">
-			<destination>{8fbcb197-218e-4644-8bab-1aeff5a15ba8}</destination>
+			<destination>{f9e57d21-9c5f-43e8-a43f-843112d680e1}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{6b1a7188-c65c-4677-8aa1-bcfbe234e820}">

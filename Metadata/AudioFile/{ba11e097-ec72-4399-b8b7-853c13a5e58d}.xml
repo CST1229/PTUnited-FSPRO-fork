@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{ba11e097-ec72-4399-b8b7-853c13a5e58d}">
 		<property name="assetPath">
-			<value>music/39 Don't Preheat Your Oven Because If You Do The Song Won't Pla.wav</value>
+			<value>music/39 Don't Preheat Your Oven Because If You Do The Song Won't Play.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
